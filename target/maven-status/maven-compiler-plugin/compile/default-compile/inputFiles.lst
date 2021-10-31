@@ -1,0 +1,16 @@
+/Users/shengyingying/Document/jboss-wfk-quickstarts-2.7.0-NCL202122-RC1/src/main/java/org/jboss/quickstarts/wfk/contact/Contact.java
+/Users/shengyingying/Document/jboss-wfk-quickstarts-2.7.0-NCL202122-RC1/src/main/java/org/jboss/quickstarts/wfk/util/ApiOriginFilter.java
+/Users/shengyingying/Document/jboss-wfk-quickstarts-2.7.0-NCL202122-RC1/src/main/java/org/jboss/quickstarts/wfk/util/RestServiceException.java
+/Users/shengyingying/Document/jboss-wfk-quickstarts-2.7.0-NCL202122-RC1/src/main/java/org/jboss/quickstarts/wfk/contact/ContactRepository.java
+/Users/shengyingying/Document/jboss-wfk-quickstarts-2.7.0-NCL202122-RC1/src/main/java/org/jboss/quickstarts/wfk/util/Resources.java
+/Users/shengyingying/Document/jboss-wfk-quickstarts-2.7.0-NCL202122-RC1/src/main/java/org/jboss/quickstarts/wfk/util/RestServiceExceptionHandler.java
+/Users/shengyingying/Document/jboss-wfk-quickstarts-2.7.0-NCL202122-RC1/src/main/java/org/jboss/quickstarts/wfk/area/Area.java
+/Users/shengyingying/Document/jboss-wfk-quickstarts-2.7.0-NCL202122-RC1/src/main/java/org/jboss/quickstarts/wfk/contact/ContactRestService.java
+/Users/shengyingying/Document/jboss-wfk-quickstarts-2.7.0-NCL202122-RC1/src/main/java/org/jboss/quickstarts/wfk/contact/UniqueEmailException.java
+/Users/shengyingying/Document/jboss-wfk-quickstarts-2.7.0-NCL202122-RC1/src/main/java/org/jboss/quickstarts/wfk/util/ErrorMessage.java
+/Users/shengyingying/Document/jboss-wfk-quickstarts-2.7.0-NCL202122-RC1/src/main/java/org/jboss/quickstarts/wfk/contact/ContactService.java
+/Users/shengyingying/Document/jboss-wfk-quickstarts-2.7.0-NCL202122-RC1/src/main/java/org/jboss/quickstarts/wfk/contact/ContactValidator.java
+/Users/shengyingying/Document/jboss-wfk-quickstarts-2.7.0-NCL202122-RC1/src/main/java/org/jboss/quickstarts/wfk/area/AreaService.java
+/Users/shengyingying/Document/jboss-wfk-quickstarts-2.7.0-NCL202122-RC1/src/main/java/org/jboss/quickstarts/wfk/util/JacksonConfig.java
+/Users/shengyingying/Document/jboss-wfk-quickstarts-2.7.0-NCL202122-RC1/src/main/java/org/jboss/quickstarts/wfk/area/InvalidAreaCodeException.java
+/Users/shengyingying/Document/jboss-wfk-quickstarts-2.7.0-NCL202122-RC1/src/main/java/org/jboss/quickstarts/wfk/ContactServiceApplication.java
